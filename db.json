@@ -1,18 +1,16 @@
 {
   "cursos": [
-    { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
-    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
-    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
-    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
-  ],
-  "alunos": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
-  ],
-  "empresa": {
-    "nome": "Code Prestige"
-  }
+     {
+      "Agrupamento":"153515",
+      "Pedido":"4413616029",
+      "Cnpj":"09312322000140",
+      "QuantidadeContratos":"54",
+      "ValorComissaoERP":"3.3445,53",
+      "ValorComissaoSPOC":"3.3445,53",
+      "ValorSomaContratosSPOC":"3.3445,53",
+      "IR":"0",
+      "StatusPedido":"Nota Fiscal enviada pelo cliente",
+      "StatusDaApuracao":"SUCESSO"
+    }
+  ]
 }
